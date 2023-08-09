@@ -1,1 +1,1 @@
-# GDSC Waze Case Study
+# Waze Case Study
